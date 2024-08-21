@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZacTel
+- 👋 Hi, I’m @परन्तप
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C Language
 - 💞️ I’m looking to collaborate Anywhere!
